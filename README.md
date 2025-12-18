@@ -2,7 +2,7 @@
 A simple and user-friendly console-based Hospital Appointment Management System built in Java.
 
 Features:
-Secure admin login./n
+Secure admin login.\n
 Add, view, update, and delete patient appointments.
 Choose from specialist doctors.
 Schedule appointments with valid dates and clinic hours.
